@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a2c6cce3-76c6-7477-0427-e936eddd2bd4
 ---
@@ -61,7 +63,7 @@ Robertson-Walker Models
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Cosmography 1: H0t0, Angular Diameter Test
+Cosmography 1: H{{< sub "0" >}}t{{< sub "0" >}}, Angular Diameter Test
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 1 due
