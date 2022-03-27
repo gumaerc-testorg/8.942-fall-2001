@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: c4583ae6-c4b1-4da1-91aa-ad468a4e8798
 resourcetype: Document
 title: rombint_c.pdf
 uid: a628087c-30b8-c18f-5e2f-4a123d046f64
