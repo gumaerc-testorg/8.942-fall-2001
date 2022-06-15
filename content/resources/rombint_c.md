@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-942-cosmology-fall-2001/a628087c30b8c18f5e2f4a123d046f64_rombint_c.pdf
+file: /courses/8-942-cosmology-fall-2001/a628087c30b8c18f5e2f4a123d046f64_rombint_c.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

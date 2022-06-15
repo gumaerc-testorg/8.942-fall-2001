@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-942-cosmology-fall-2001/ad0dd786fb8a1bbeeacfdc5741bf9de6_ps1.pdf
+file: /courses/8-942-cosmology-fall-2001/ad0dd786fb8a1bbeeacfdc5741bf9de6_ps1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

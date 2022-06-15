@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides internal and external links to related to cosmology,
+  physics, and relativity.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: c4583ae6-c4b1-4da1-91aa-ad468a4e8798
 ---
@@ -47,7 +48,7 @@ Software and Numerical Methods
 *   [CMBFAST](https://lambda.gsfc.nasa.gov/toolbox/tb_cmbfast_ov.cfm)\- Fastest way to compute CMB anisotropy spectra
 *   COSMICS - high-accuracy initial conditions for cosmological simulations
 *   [Numerical Recipes](http://www.nr.com/)
-*   Romberg integration subroutine: C ({{< resource_link a628087c-30b8-c18f-5e2f-4a123d046f64 "PDF" >}}) or f77 ({{< resource_link ca965571-d378-e65a-2d30-b5ee6e80a5c9 "PDF" >}})
+*   Romberg integration subroutine: C ({{% resource_link a628087c-30b8-c18f-5e2f-4a123d046f64 "PDF" %}}) or f77 ({{% resource_link ca965571-d378-e65a-2d30-b5ee6e80a5c9 "PDF" %}})
 *   [Netlib mathematical software repository](http://www.netlib.org/)
 *   [National HPCC Software Exchange](https://www.hq.nasa.gov/hpcc/reports/annrpt97/accomps/ess/WW44.html)
 
