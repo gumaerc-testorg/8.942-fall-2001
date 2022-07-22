@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists the assigned readings, and includes selected lecture
+  notes and links to some complete papers available online.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Lecture Notes
 uid: 5d5d2a6d-8e0f-ee88-02d1-b54c44a703f6
 ---
@@ -65,12 +69,12 @@ Peacock: Chapter 3.1-3.3
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Cosmography 1: H0t0, Angular Diameter Test
+Cosmography 1: H{{< sub "0" >}}t{{< sub "0" >}}, Angular Diameter Test
 {{< tdclose >}}
 {{< tdopen >}}
 Peacock: Chapter 5  
   
-Lecture Note: Cosmography in a Robertson-Walker Universe ([PDF]({{< baseurl >}}/resources/cosmog))
+Lecture Note: Cosmography in a Robertson-Walker Universe ({{% resource_link db6839d8-5f92-6f2f-41b8-056ee63e80c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +180,7 @@ CMB Anisotropy 2
 {{< tdopen >}}
 Peacock: Chapter 18  
   
-Lecture Note: Cosmic Microwave Background Anisotropy ([PDF]({{< baseurl >}}/resources/cmbfluct03))
+Lecture Note: Cosmic Microwave Background Anisotropy ({{% resource_link 1dfd6c11-4ad9-2fe1-e487-3a9a83a209c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +194,7 @@ CMB Anisotropy 3
 {{< tdopen >}}
 Peacock: Chapter 18  
   
-Lecture Note: CMB Anisotropy Notes ([PDF]({{< baseurl >}}/resources/cmbfluct03))
+Lecture Note: CMB Anisotropy Notes ({{% resource_link 1dfd6c11-4ad9-2fe1-e487-3a9a83a209c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
