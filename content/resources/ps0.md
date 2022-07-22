@@ -5,6 +5,7 @@ file: /courses/8-942-cosmology-fall-2001/3c2ff0a33ddab96d1e442b63b332cde6_ps0.pd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

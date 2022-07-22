@@ -5,6 +5,7 @@ file: /courses/8-942-cosmology-fall-2001/e0ead8325949f1acbb30ccac2e50f08e_ps5.pd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
