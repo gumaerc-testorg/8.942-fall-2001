@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-942-cosmology-fall-2001/82acc90354251e071e2b259e91f1e28f_ps6.pdf
+file_size: 109226
 file_type: application/pdf
 learning_resource_types:
 - Assignments

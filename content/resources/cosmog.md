@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-942-cosmology-fall-2001/db6839d85f926f2f41b8056ee63e80c2_cosmog.pdf
+file_size: 197946
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
