@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-942-cosmology-fall-2001/1dfd6c114ad92fe1e4873a9a83a209c7_cmbfluct03.pdf
+file_size: 673427
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
