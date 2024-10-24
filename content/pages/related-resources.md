@@ -14,7 +14,6 @@ uid: c4583ae6-c4b1-4da1-91aa-ad468a4e8798
 - [Ned Wright's Cosmology Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm)
 - [Microwave Anisotropy Probe Home Page](http://map.gsfc.nasa.gov/)
 - [Mysteries of Deep Space Timeline](http://www.pbs.org/deepspace/timeline/index.html) - from PBS
-- [Dark Matter tutorial](http://www.astro.queensu.ca/) by Jonathan Dursi, includes java® cluster simulation
 - [The Physics of CMB Anisotropies](http://background.uchicago.edu/) - well-illustrated intro by Wayne Hu
 - [The Cosmological Constant](http://nedwww.ipac.caltech.edu/level5/Carroll/frames.html) - review article by Carroll, Press, & Turner
 - [N-body animations](http://www.cita.utoronto.ca/~dubinski/movies/) - nice movies from John Dubinski (warning: very large files)
@@ -42,10 +41,10 @@ Software and Numerical Methods
 
 - [Astrophysics Source Code Library Archive](http://ascl.net/) - Archive of many useful astrophysics codes
 - COSMICS - high-accuracy initial conditions for cosmological simulations
-- [Numerical Recipes](http://www.nr.com/)
+- [Numerical Recipes](https://numerical.recipes/)
 - Romberg integration subroutine: C ({{% resource_link "a628087c-30b8-c18f-5e2f-4a123d046f64" "PDF" %}}) or f77 ({{% resource_link "ca965571-d378-e65a-2d30-b5ee6e80a5c9" "PDF" %}})
 - [Netlib mathematical software repository](http://www.netlib.org/)
-- [National HPCC Software Exchange](https://www.hq.nasa.gov/hpcc/reports/annrpt97/accomps/ess/WW44.html)
+- [National HPCC Software Exchange](https://ieeexplore.ieee.org/document/388962)
 
 Preparing and Displaying Electronic Documents
 
