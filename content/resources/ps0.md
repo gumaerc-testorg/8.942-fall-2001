@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-942-cosmology-fall-2001/3c2ff0a33ddab96d1e442b63b332cde6_ps0.pdf
+file: /courses/8-942-cosmology-fall-2001/3c2ff0a33ddab96d1e442b63b332cde6_ps0.pdf
 file_size: 18407
 file_type: application/pdf
 learning_resource_types:
