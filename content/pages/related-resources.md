@@ -28,7 +28,7 @@ uid: c4583ae6-c4b1-4da1-91aa-ad468a4e8798
 
 Online Publications
 
-- [astro-ph](http://de.arxiv.org/find/astro-ph/) - LANL preprint server
+- [astro-ph](https://arxiv.org/archive/astro-ph) - LANL preprint server
 - [ADS](http://adsabs.harvard.edu/abstract_service.html) - The best way to find astrophysics publications
 - [SPIRES](http://www.slac.stanford.edu/spires/)
 - [Astrophysical Journal](http://phys.org/journals/astrophysical-journal/)
