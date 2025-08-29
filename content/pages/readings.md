@@ -54,7 +54,7 @@ Cosmography 2: SNe Ia
 
 Peacock: Chapter 3.4, 5
 
-[High-z SN Team](http://www.cfa.harvard.edu/supernova//HighZ.html), [Turner & Riess](http://de.arxiv.org/abs/astro-ph/0106051), [Filippenko](http://de.arxiv.org/abs/astro-ph/0109399)
+[High-z SN Team](http://www.cfa.harvard.edu/supernova//HighZ.html), [Turner & Riess](http://arxiv.org/abs/astro-ph/0106051), [Filippenko](http://arxiv.org/abs/astro-ph/0109399)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -70,7 +70,7 @@ Inflation 2
 
 Peacock: Chapter 11.3-11.4
 
-[Liddle](http://de.arxiv.org/abs/astro-ph/0109439)
+[Liddle](http://arxiv.org/abs/astro-ph/0109439)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -86,7 +86,7 @@ Radiation Era, Nucleosynthesis
 
 Peacock: Chapter 9
 
-[Burles et al](http://de.arxiv.org/abs/astro-ph/0010171)
+[Burles et al](http://arxiv.org/abs/astro-ph/0010171)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -96,7 +96,7 @@ Baryogenesis, CMB Basics
 
 Peacock: Chapter 9.6, 9.4
 
-[Smoot](http://de.arxiv.org/abs/astro-ph/9902027)
+[Smoot](http://arxiv.org/abs/astro-ph/9902027)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -138,7 +138,7 @@ High-z Galaxies and QSOs
 
 Peacock: Chapter 13, 14
 
-[Madau](http://de.arxiv.org/abs/astro-ph/9902228), [Abraham & van den Bergh](http://de.arxiv.org/abs/astro-ph/0109358)
+[Madau](http://arxiv.org/abs/astro-ph/9902228), [Abraham & van den Bergh](http://arxiv.org/abs/astro-ph/0109358)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -148,7 +148,7 @@ QSO Absorption Lines 1
 
 Peacock: Chapter 12.1-12.2
 
-[Madau](http://de.arxiv.org/abs/astro-ph/0005106), [Becker et al](http://de.arxiv.org/abs/astro-ph/0108097)
+[Madau](http://arxiv.org/abs/astro-ph/0005106), [Becker et al](http://arxiv.org/abs/astro-ph/0108097)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -170,7 +170,7 @@ Newtonian Structure Formation Theory
 
 Peacock: Chapter 15.1-15.4
 
-Lecture Note: [Cosmological Perturbation Theory and Structure Formation](http://de.arxiv.org/abs/astro-ph/0101009)
+Lecture Note: [Cosmological Perturbation Theory and Structure Formation](http://arxiv.org/abs/astro-ph/0101009)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -195,7 +195,7 @@ Peacock: Chapter 17.1-17.2
 {{< tdclose >}}{{< tdopen >}}
 Structure Formation Models 2
 {{< tdclose >}}{{< tdopen >}}
-[Turner review](http://de.arxiv.org/abs/astro-ph/9901168)
+[Turner review](http://arxiv.org/abs/astro-ph/9901168)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
@@ -217,5 +217,5 @@ N-body Simulations
 {{< tdclose >}}{{< tdopen >}}
 Frontiers of Cosmology
 {{< tdclose >}}{{< tdopen >}}
-[Rees](http://de.arxiv.org/abs/astro-ph/0103391)
+[Rees](http://arxiv.org/abs/astro-ph/0103391)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
