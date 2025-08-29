@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-942-cosmology-fall-2001/ef8447def89ed19fe12a5c1a7c239eb7_ps7.pdf
+file: /ol-ocw-studio-app/courses/8-942-cosmology-fall-2001/ef8447def89ed19fe12a5c1a7c239eb7_ps7.pdf
 file_size: 97726
 file_type: application/pdf
 learning_resource_types:
