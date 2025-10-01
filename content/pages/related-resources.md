@@ -10,47 +10,47 @@ uid: c4583ae6-c4b1-4da1-91aa-ad468a4e8798
 ---
 ## General Cosmology
 
-- [Cosmology: A Research Briefing](http://www.nap.edu/openbook.php?record_id=9293) - Excellent summary from the National Research Council
-- [Ned Wright's Cosmology Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm)
-- [Microwave Anisotropy Probe Home Page](http://map.gsfc.nasa.gov/)
-- [Mysteries of Deep Space Timeline](http://www.pbs.org/deepspace/timeline/index.html) - from PBS
-- [The Physics of CMB Anisotropies](http://background.uchicago.edu/) - well-illustrated intro by Wayne Hu
-- [The Cosmological Constant](http://nedwww.ipac.caltech.edu/level5/Carroll/frames.html) - review article by Carroll, Press, & Turner
-- [N-body animations](http://www.cita.utoronto.ca/~dubinski/movies/) - nice movies from John Dubinski (warning: very large files)
+- {{% resource_link "97062a03-0baf-443b-8f56-fb34096558e7" "Cosmology: A Research Briefing" %}} - Excellent summary from the National Research Council
+- {{% resource_link "8d99b1f0-f135-4ba2-825c-7f2a05ab9f47" "Ned Wright's Cosmology Tutorial" %}}
+- {{% resource_link "c71956e0-2510-43cc-a26e-aea27b46f3bf" "Microwave Anisotropy Probe Home Page" %}}
+- {{% resource_link "13688af2-d4b7-40cb-9f2b-3eb3d942c0a1" "Mysteries of Deep Space Timeline" %}} - from PBS
+- {{% resource_link "d690c50d-d606-4af4-93d0-edbebd95856c" "The Physics of CMB Anisotropies" %}} - well-illustrated intro by Wayne Hu
+- {{% resource_link "e6a5660c-88b5-435e-978c-47cc3120a96e" "The Cosmological Constant" %}} - review article by Carroll, Press, & Turner
+- {{% resource_link "2853556c-f01a-496d-9ed4-03282b4a8118" "N-body animations" %}} - nice movies from John Dubinski (warning: very large files)
 
 ## General Astrophysics and Physics
 
-- [Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/astropix.html)
-- [Hubble Space Telescope Science Institute](http://www.stsci.edu/resources/)
-- [Chandra X-Ray Observatory Center](http://chandra.harvard.edu/)
-- [Sloan Digital Sky Survey](http://www.sdss.org/)
-- [Nobel Prizes in Physics](http://www.slac.stanford.edu/library/nobel/)
+- {{% resource_link "33126391-e202-45bc-819f-b440ed0ecf70" "Astronomy Picture of the Day" %}}
+- {{% resource_link "109b853a-7e8b-411b-b51e-891453de8687" "Hubble Space Telescope Science Institute" %}}
+- {{% resource_link "4a7c53d2-a210-433a-b9d1-d6a4369281e3" "Chandra X-Ray Observatory Center" %}}
+- {{% resource_link "be430577-0bb6-495a-aee4-59f53ae8074a" "Sloan Digital Sky Survey" %}}
+- {{% resource_link "f56984bb-5a87-4a6e-bdd0-dee8e905eb68" "Nobel Prizes in Physics" %}}
 
 Online Publications
 
-- [astro-ph](https://arxiv.org/archive/astro-ph) - LANL preprint server
-- [ADS](http://adsabs.harvard.edu/abstract_service.html) - The best way to find astrophysics publications
-- [SPIRES](http://www.slac.stanford.edu/spires/)
-- [Astrophysical Journal](http://phys.org/journals/astrophysical-journal/)
+- {{% resource_link "ac445e89-c206-4ec2-ba73-2e41f9f18956" "astro-ph" %}} - LANL preprint server
+- {{% resource_link "ba9d6096-af64-4fb2-8938-7f029669333f" "ADS" %}} - The best way to find astrophysics publications
+- {{% resource_link "2c393c73-f65a-4c5b-8e73-2e8b93975e35" "SPIRES" %}}
+- {{% resource_link "f76274d0-1780-4e4b-9b1b-dd2447c8134a" "Astrophysical Journal" %}}
 
 ## General Relativity
 
-- [Sean Carroll's General Relativity notes and links](https://www.preposterousuniverse.com/grnotes/) - Excellent resource
+- {{% resource_link "76adcae2-9e9e-4a61-91eb-9b3c4a8286cf" "Sean Carroll's General Relativity notes and links" %}} - Excellent resource
 
 Software and Numerical Methods
 
-- [Astrophysics Source Code Library Archive](http://ascl.net/) - Archive of many useful astrophysics codes
+- {{% resource_link "dfb30802-f643-462b-9dea-dbb656897e24" "Astrophysics Source Code Library Archive" %}} - Archive of many useful astrophysics codes
 - COSMICS - high-accuracy initial conditions for cosmological simulations
-- [Numerical Recipes](https://numerical.recipes/)
+- {{% resource_link "7cedefa4-954a-40a7-93be-a63b29a6922f" "Numerical Recipes" %}}
 - Romberg integration subroutine: C ({{% resource_link "a628087c-30b8-c18f-5e2f-4a123d046f64" "PDF" %}}) or f77 ({{% resource_link "ca965571-d378-e65a-2d30-b5ee6e80a5c9" "PDF" %}})
-- [Netlib mathematical software repository](http://www.netlib.org/)
-- [National HPCC Software Exchange](https://ieeexplore.ieee.org/document/388962)
+- {{% resource_link "1a0de7a9-cf68-47d6-bf07-5768dbe8f98d" "Netlib mathematical software repository" %}}
+- {{% resource_link "4bac6d15-70bd-4955-9939-af050981ec3c" "National HPCC Software Exchange" %}}
 
 Preparing and Displaying Electronic Documents
 
-- [The Bare Bones Guide to HTML](http://werbach.com/barebones/barebone.html)
-- [Writing HTML](http://www.math.unm.edu/writingHTML/tut/index.html) - includes an introduction to Java®
-- [Sun Java® Tutorial](http://java.sun.com/docs/books/tutorial/index.html)
-- [Another HTML tutor](http://sites.utoronto.ca/webdocs/HTMLdocs/NewHTML/intro.html) - with CGI scripting/programming
-- [Ghostscript and Ghostview](http://pages.cs.wisc.edu/~ghost/) - Postscript® previewer
-- [Acrobat Reader](http://www.adobe.com/support/downloads/main.html) - software for displaying and printing pdf files
+- {{% resource_link "36cc9a92-bb34-4539-b6ca-2b94f5004d0f" "The Bare Bones Guide to HTML" %}}
+- {{% resource_link "948cf846-be9f-4bb7-a320-99e3fdfaaaff" "Writing HTML" %}} - includes an introduction to Java®
+- {{% resource_link "9524e91f-3eb1-44e7-b131-8c032576b5b3" "Sun Java® Tutorial" %}}
+- {{% resource_link "541fbb72-5af6-4920-9f92-289d1ba6ee08" "Another HTML tutor" %}} - with CGI scripting/programming
+- {{% resource_link "0a79429f-fa3e-4659-9247-332d738ff0e7" "Ghostscript and Ghostview" %}} - Postscript® previewer
+- {{% resource_link "22a40c6f-f829-41ff-b9cf-4b9d6be2080c" "Acrobat Reader" %}} - software for displaying and printing pdf files
